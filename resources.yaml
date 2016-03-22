@@ -1,0 +1,11 @@
+options:
+  output_dir: /home/ubuntu/resources
+optional_resources:
+  oozie-x86_64:
+    url: http://bazaar.launchpad.net/~bigdata-dev/bigdata-data/trunk/download/kevin.monroe%40canonical.com-20150326161450-fz2c3qa2fs9ulk34/oozie4.0.1distro.tar-20150326160210-ua8kzmqy3qbz3qzh-1/oozie-4.0.1-distro.tar.gz
+    hash: 001be636160f1291922a003736d00debe2be2ae02a2d66f8eca287f61f1a3d68
+    hash_type: sha256
+  ext22:
+    url: http://archive.cloudera.com/gplextras/misc/ext-2.2.zip
+    hash: c463e298c7cc6fe3c5c863424a688b53a452bfe8f136bf20002e15b2bd201369
+    hash_type: sha256
